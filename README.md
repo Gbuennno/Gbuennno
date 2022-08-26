@@ -16,5 +16,12 @@ caso queira me dar uma oportunidade fico a disposição.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbuennno&repo=jornada-dev-giovani.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
+##Contatos
+
+<div>
+  <a href="gbuennno@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+
 
 
