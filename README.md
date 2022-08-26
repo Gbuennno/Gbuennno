@@ -9,8 +9,7 @@ caso queira me dar uma oportunidade fico a disposição.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbuennno&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbuennno_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbuennno)](https://github.com/anuraghazra/github-readme-stats)
 
 #projetos:
 
@@ -18,5 +17,4 @@ caso queira me dar uma oportunidade fico a disposição.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbuennno&repo=jornada-dev-giovani.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
-##Contatos:
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'alt-'Linkedin'height-'30'>](https://www.linkedin.com/in/giovani-bueno-571a15179?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4QLSBarhRqa1%2FzY2oxr95w%3D%3D)
+
